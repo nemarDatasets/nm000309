@@ -1,0 +1,47 @@
+{
+    "Name": "PardoGarcia2026",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.4.0",
+    "DatasetType": "derivative",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Rebeca Pardo-Garcia",
+        "Maria Ruiz-Izquierdo",
+        "Mercedes Garcia de la Vega",
+        "Rocio Calvillo",
+        "George Kontaxakis",
+        "Eva M. Moreno",
+        "M. A. Pozo"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.5281/zenodo.19599465"
+    ],
+    "Keywords": [
+        "EEG",
+        "motor imagery",
+        "motor preparation",
+        "motor execution",
+        "chronic stroke",
+        "MCA stroke",
+        "rehabilitation",
+        "mu rhythm",
+        "beta rhythm",
+        "ERD"
+    ],
+    "DatasetDOI": "doi:10.5281/zenodo.19599465",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/NeuroTechX/moabb",
+            "Name": "moabb",
+            "Description": "Mother of All BCI Benchmarks",
+            "Version": "1.8.0dev0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.5281/zenodo.19599465",
+            "URL": "https://doi.org/10.5281/zenodo.19599465"
+        }
+    ],
+    "PublicationYear": 2026
+}
