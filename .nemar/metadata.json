@@ -1,0 +1,92 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Rebeca Pardo-Garcia": {
+      "orcid": "0000-0003-1149-4600",
+      "affiliations": [
+        {
+          "name": "UCM"
+        }
+      ]
+    },
+    "Maria Ruiz-Izquierdo": {},
+    "Mercedes Garcia de la Vega": {},
+    "Rocio Calvillo": {},
+    "George Kontaxakis": {},
+    "Eva M. Moreno": {},
+    "M. A. Pozo": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19599465",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000309",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000309",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "PardoGarcia2026",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "5.05 GB (28 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".tsv",
+    ".yaml"
+  ],
+  "description": "This dataset contains pre-execution, two-class hand motor imagery EEG (precision pinch vs closed fist) recorded from 10 patients with chronic middle cerebral artery stroke, measured at baseline and after rehabilitation, and from 8 healthy controls. Recordings used 63 BrainVision channels sampled at 1000 Hz during image-cued motor imagery and preparation that preceded cued overt execution. The data support investigation of mu and beta oscillatory changes (event-related desynchronization) associated with rehabilitation after stroke.",
+  "methods_description": "EEG was recorded with a BrainVision (Brain Products) system at 1000 Hz using an Electro-Cap International cap with Ag/AgCl electrodes in a 10-10 montage (59 EEG and 4 EOG channels), referenced to the right mastoid (A2). Participants imagined and prepared the hand grip shown in a visual cue image (pinch or fist) before a later auditory go cue for overt execution. Only the pre-execution interval of 0 to 1.5 s is exposed in this dataset.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "Stroke",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D020521"
+    },
+    {
+      "term": "rehabilitation"
+    },
+    {
+      "term": "mu rhythm"
+    },
+    {
+      "term": "beta rhythm"
+    },
+    {
+      "term": "event-related desynchronization"
+    }
+  ],
+  "source_hash": "8c0fc4056eb10cd25c78fc97d4a13fab055a316f5379762f97e14efa92bbdc50"
+}
