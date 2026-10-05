@@ -45,6 +45,6 @@
     ],
     "PublicationYear": 2026,
     "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+        "Approved by the Medical Ethical Reviewing Committee of the Hospital Cl\u00ednico San Carlos (Madrid, Spain), approval number 22/459-E_Tesis. The study was carried out in accordance with the Code of Ethics of the World Medical Association (Declaration of Helsinki). Patients provided written informed consent; healthy controls provided verbal informed consent (Pardo-Garcia et al. 2026, preprint DOI 10.21203/rs.3.rs-6958817/v1)."
     ]
 }

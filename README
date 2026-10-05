@@ -102,3 +102,13 @@ new human-subject data were collected during this BIDS re-release; this
 NEMAR record only reformats the published source data into BIDS via MOABB.
 Please consult the primary publication for the exact IRB/ethics committee
 reference.
+
+## Ethics
+
+Approved by the Medical Ethical Reviewing Committee of the Hospital Clínico San Carlos (Madrid, Spain), approval number 22/459-E_Tesis. The study was carried out in accordance with the Code of Ethics of the World Medical Association (Declaration of Helsinki). Patients provided written informed consent; healthy controls provided verbal informed consent (Pardo-Garcia et al. 2026, preprint DOI 10.21203/rs.3.rs-6958817/v1).
+
+Verbatim from the source:
+
+> This study was approved by the Medical Ethical Reviewing Committee of the Hospital Clínico San Carlos in Madrid, Spain (assigned number Nº22/459-E_Tesis) and was carried out in accordance with the Code of Ethics of the World Medical Association (Declaration of Helsinki).
+
+Source: cached paper .paper-audit/PardoGarcia2026/paper-10_21203_rs_3_rs_6958817_v1.txt (Pardo-Garcia et al. 2026, Research Square preprint, DOI 10.21203/rs.3.rs-6958817/v1).
