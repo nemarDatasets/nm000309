@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "PardoGarcia2026: Mu/beta motor-imagery EEG in chronic MCA stroke and healthy controls",
-  "description": "Two-class hand motor-imagery EEG (precision pinch vs closed fist) recorded from chronic middle cerebral artery stroke patients, measured before and after rehabilitation, and from healthy controls. The recordings are 63-channel BrainVision EEG sampled at 1000 Hz, and the exposed interval covers the pre-execution imagery and preparation phase before a later auditory go cue. The dataset supports study of mu and beta oscillatory changes (event-related desynchronization) associated with motor recovery. This is a BIDS re-release of the Zenodo source data produced via MOABB.",
-  "methods_description": "Participants were shown image cues for a precision pinch or a closed fist and imagined and prepared the grip, with overt execution following a later auditory go cue. EEG was recorded with a BrainVision system (Ag/AgCl electrodes, Electro-Cap, 10-10 montage, 63 channels including EOG, 1000 Hz, right mastoid reference). Patients were recorded at baseline (ses-0pre) and post-rehabilitation (ses-1post), and healthy controls once.",
+  "description": "Pre-execution, two-class hand motor-imagery EEG (precision pinch vs closed fist) from 10 chronic middle cerebral artery stroke patients, recorded at baseline and after rehabilitation, and 8 healthy controls. Recordings used 63 BrainVision channels at 1000 Hz. The data support analysis of mu and beta oscillatory changes (event-related desynchronization) during motor preparation and imagery. This is a BIDS re-release produced via MOABB.",
+  "methods_description": "EEG was recorded with a BrainVision (Brain Products) system using an Electro-Cap 10-10 montage with Ag/AgCl electrodes, 63 channels (59 EEG, 4 EOG) sampled at 1000 Hz and referenced to the right mastoid. Participants viewed image cues for a precision pinch or closed fist and imagined and prepared the grip. Overt execution followed a later auditory go cue and is outside the exposed interval. Trials cover 0-1.5 s.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -24,9 +24,10 @@
   },
   "keywords": [
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
     },
     {
       "term": "Stroke",
@@ -34,12 +35,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D020521"
     },
     {
-      "term": "Imagery, Psychotherapy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D019018"
-    },
-    {
-      "term": "motor imagery"
+      "term": "rehabilitation"
     },
     {
       "term": "mu rhythm"
@@ -49,9 +45,6 @@
     },
     {
       "term": "event-related desynchronization"
-    },
-    {
-      "term": "rehabilitation"
     }
   ],
   "related_identifiers": [
@@ -79,6 +72,11 @@
       "identifier": "10.1038/s41597-019-0104-8",
       "identifier_type": "DOI",
       "relation_type": "References"
+    },
+    {
+      "identifier": "10.21203/rs.3.rs-6958817/v1",
+      "identifier_type": "DOI",
+      "relation_type": "References"
     }
   ],
   "resource_type_general": "Dataset",
@@ -96,5 +94,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "247a96d08c45e8ab1f2152941e81e19464f1cb061625fe88c9693dc8f637f85e"
+  "source_hash": "e35cd4effd4c0b3f82400dd78caf5897ce82ac51158c5955a1fa74ad0e5f6177"
 }
