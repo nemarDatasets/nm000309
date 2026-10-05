@@ -1,5 +1,5 @@
 {
-    "Name": "PardoGarcia2026",
+    "Name": "PardoGarcia2026: Mu/beta motor-imagery EEG in chronic MCA stroke and healthy controls",
     "BIDSVersion": "1.9.0",
     "HEDVersion": "8.4.0",
     "DatasetType": "derivative",
@@ -43,5 +43,8 @@
             "URL": "https://doi.org/10.5281/zenodo.19599465"
         }
     ],
-    "PublicationYear": 2026
+    "PublicationYear": 2026,
+    "EthicsApprovals": [
+        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+    ]
 }
