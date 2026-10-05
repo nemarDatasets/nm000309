@@ -9,7 +9,7 @@ Dataset Overview
   Paradigm: imagery
   DOI: 10.5281/zenodo.19599465
   Subjects: 18
-  Sessions per subject: 1
+  Sessions per subject: 1 (loader default declares 1 per MOABB minimum-sessions convention; deposited tree holds ses-0pre and ses-1post for 9 chronic MCA stroke patients (sub-1, sub-3..sub-10) and ses-0pre only for the remaining 9 subjects: sub-2 lost to follow-up and sub-11..sub-18 healthy controls; 27 sessions total)
   Events: pinch=1, fist=2
   Trial interval: [0, 1.5] s
 
