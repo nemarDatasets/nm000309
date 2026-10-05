@@ -1,1 +1,177 @@
-../.git/annex/objects/9P/20/SHA256E-s4667--45916a8bf0724a38a8ed28ff93fdf93454ede06a103f346eec7b502d51a240d0.json/SHA256E-s4667--45916a8bf0724a38a8ed28ff93fdf93454ede06a103f346eec7b502d51a240d0.json
+{
+ "dataset": "nm000309",
+ "moabb_class": "PardoGarcia2026",
+ "moabb_version_used": "v1.7.1-11-g9c6b1cc",
+ "retrieved": "2026-10-05",
+ "retrieved_by": "moabb.datasets.PardoGarcia2026.data_path()",
+ "upstream_cache_root": "/voyager/ceph/groups/sdp190/bpinto/moabb-nemar/mne_data/PardoGarcia2026/MNE-pardogarcia2026-data/zenodo/19599466",
+ "license": "CC-BY-4.0",
+ "doi": "10.5281/zenodo.19599465",
+ "naming": "upstream_filenames_restored",
+ "n_files": 27,
+ "total_bytes": 397653,
+ "files": [
+  {
+   "file": "02.vhdr",
+   "bytes": 14541,
+   "sha256": "76dc0e7defb867313efe1bb076abe0f506b7c322b08dc9c4fae0e108fb34baea",
+   "subject": "12"
+  },
+  {
+   "file": "C01.vhdr",
+   "bytes": 14682,
+   "sha256": "4f3f06f3993b9fab667f27b44e8adf7568b1afce6210411ba5d3fed149ee10db",
+   "subject": "11"
+  },
+  {
+   "file": "C03.vhdr",
+   "bytes": 15888,
+   "sha256": "a0869efaa01bd61661aef67cee837b9497f14d7d338c4c3cbd6fab98b0555dc9",
+   "subject": "13"
+  },
+  {
+   "file": "CONTROL04.vhdr",
+   "bytes": 14694,
+   "sha256": "b95af270d8f31e043f5ba5f88e58d1376c811c81fd2849177c6817c3732471e7",
+   "subject": "14"
+  },
+  {
+   "file": "CONTROL05.vhdr",
+   "bytes": 14555,
+   "sha256": "37ecbf5e666deff80d2b434494ba502cf4b0b7bff96d76a41fcb265587a54f58",
+   "subject": "15"
+  },
+  {
+   "file": "CONTROL06.vhdr",
+   "bytes": 14710,
+   "sha256": "c42997bca195efe3d42dcf75989766c1ce6762ca4df9192c6914f21532569686",
+   "subject": "16"
+  },
+  {
+   "file": "CONTROL07.vhdr",
+   "bytes": 14555,
+   "sha256": "2f3d3b0a9ba115d63754c1601fb7a4d0572c68125273c70923978574631274f6",
+   "subject": "17"
+  },
+  {
+   "file": "CONTROL08.vhdr",
+   "bytes": 14694,
+   "sha256": "5c2d4f593e554f9392bf02abb1afbbd4b4c75cfd14cdf15967f83fc06e6ce247",
+   "subject": "18"
+  },
+  {
+   "file": "PAC01-POST.vhdr",
+   "bytes": 14557,
+   "sha256": "fda516a479115b146dbf7f8650e6bcb1e8118b641c760e13fc107afd83431605",
+   "subject": "1"
+  },
+  {
+   "file": "PAC01.vhdr",
+   "bytes": 14547,
+   "sha256": "5b0fe20c762cce215e5d4665778108c8ebb26922d28bc60e7362b82d4277d323",
+   "subject": "1"
+  },
+  {
+   "file": "PAC02.vhdr",
+   "bytes": 14564,
+   "sha256": "e953739f743d7b8cf9e8a3292420acf710cf9a57dd35be49f29897291035962e",
+   "subject": "2"
+  },
+  {
+   "file": "PAC03-POST.vhdr",
+   "bytes": 14696,
+   "sha256": "980401f52e1a64208e63c75fd9b5f0f03a59fb81b1a04deb03b259ccc11e6150",
+   "subject": "3"
+  },
+  {
+   "file": "PAC03.vhdr",
+   "bytes": 14759,
+   "sha256": "5eb5de3646cda5fc480d7a31b7e14290040344bb8ead71fe89c95b4404415197",
+   "subject": "3"
+  },
+  {
+   "file": "PAC04-POST.vhdr",
+   "bytes": 14696,
+   "sha256": "e58d7a77e460258d372891cf4c031e1aeca3e5effce2eb8cb67af01ac9eb3bd9",
+   "subject": "4"
+  },
+  {
+   "file": "PAC04.vhdr",
+   "bytes": 14547,
+   "sha256": "d36f1326c42c0f30264ebbc59ab888599aa731011c6471caaae112908fe2847a",
+   "subject": "4"
+  },
+  {
+   "file": "PAC05-POST.vhdr",
+   "bytes": 14696,
+   "sha256": "620483fb96b1bf9c2982b23ff5289518dba77d2ce6299b4c1b648fd7ab091217",
+   "subject": "5"
+  },
+  {
+   "file": "PAC05.vhdr",
+   "bytes": 14547,
+   "sha256": "1250941adf4465de6d17b457e40fe480ada9b7f16e982007ff118e122b69db1e",
+   "subject": "5"
+  },
+  {
+   "file": "PAC06-POST.vhdr",
+   "bytes": 14557,
+   "sha256": "ef87bd50ce0eeaf9ecee2dde78db29c25d57cbe72b780d8a2376898878fc3291",
+   "subject": "6"
+  },
+  {
+   "file": "PAC06.vhdr",
+   "bytes": 14555,
+   "sha256": "b394bc64adaa8369ba25e35d8ca18f32a8f8922693b26cd4c442e5b2b16929e4",
+   "subject": "6"
+  },
+  {
+   "file": "PAC07-POST.vhdr",
+   "bytes": 15911,
+   "sha256": "96750321170465626aeee6e91e4b05d9b69320b3fa03d2b169b088179e28695a",
+   "subject": "7"
+  },
+  {
+   "file": "PAC07.vhdr",
+   "bytes": 14686,
+   "sha256": "b02abde0689e2dffc90c580cc8697a7093914a137fdc9ef524ff8762486a74c0",
+   "subject": "7"
+  },
+  {
+   "file": "PAC08-POST.vhdr",
+   "bytes": 14696,
+   "sha256": "4e0c988bd5bbaaea1d95bf1f442d33cc6259cca53df61a72f928dce195d7a1af",
+   "subject": "8"
+  },
+  {
+   "file": "PAC08.vhdr",
+   "bytes": 14686,
+   "sha256": "f9d90272742fbe2e7f149916a51a0aecb70cf1f6ad52d5bdb63c44cc9525f48f",
+   "subject": "8"
+  },
+  {
+   "file": "PAC09-POST.vhdr",
+   "bytes": 14696,
+   "sha256": "7bbd7e74340cb1bad39c2d8aed0e515a676d51403304bc1bfee4d3f3ca73ad4c",
+   "subject": "9"
+  },
+  {
+   "file": "PAC09.vhdr",
+   "bytes": 14686,
+   "sha256": "9e0c5d556f6cab803d5c107f4242237ce4e79689889324b6f01f7821f515a118",
+   "subject": "9"
+  },
+  {
+   "file": "PAC10-POST.vhdr",
+   "bytes": 14566,
+   "sha256": "d95b890af0a117fc4595a546c1fbcb9b0a810a7fcbc7a0466fccaa97d26faf0b",
+   "subject": "10"
+  },
+  {
+   "file": "PAC10.vhdr",
+   "bytes": 14686,
+   "sha256": "f9f6a561a3be8acbf7d85d26483af15788dc1d50098a240c54edb862a2202eab",
+   "subject": "10"
+  }
+ ]
+}
