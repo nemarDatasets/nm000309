@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "PardoGarcia2026: Mu/beta motor-imagery EEG in chronic MCA stroke and healthy controls",
-  "description": "Pre-execution, two-class hand motor-imagery EEG (precision pinch vs closed fist) from 10 chronic middle cerebral artery stroke patients, recorded at baseline and after rehabilitation, and 8 healthy controls. Recordings used 63 BrainVision channels at 1000 Hz. The data support analysis of mu and beta oscillatory changes (event-related desynchronization) during motor preparation and imagery. This is a BIDS re-release produced via MOABB.",
-  "methods_description": "EEG was recorded with a BrainVision (Brain Products) system using an Electro-Cap 10-10 montage with Ag/AgCl electrodes, 63 channels (59 EEG, 4 EOG) sampled at 1000 Hz and referenced to the right mastoid. Participants viewed image cues for a precision pinch or closed fist and imagined and prepared the grip. Overt execution followed a later auditory go cue and is outside the exposed interval. Trials cover 0-1.5 s.",
+  "description": "Pre-execution, two-class hand motor-imagery EEG (precision pinch vs closed fist) recorded with 63 BrainVision channels at 1000 Hz. The dataset includes 10 chronic middle cerebral artery (MCA) stroke patients, recorded at baseline and after rehabilitation, and 8 healthy controls. It supports investigation of mu and beta oscillatory changes (event-related desynchronization) during motor preparation and imagery in stroke rehabilitation.",
+  "methods_description": "Image-cued hand motor imagery and preparation (pinch vs fist) preceding a later auditory go cue and overt execution. EEG was recorded with a BrainVision system using 63 channels (59 EEG, 4 EOG) in a 10-10 montage at 1000 Hz, referenced to the right mastoid (A2). Only the pre-execution phase (0-1.5 s) is exposed. Patients were recorded before and after rehabilitation.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -85,14 +85,16 @@
     "eeg"
   ],
   "sizes": [
-    "5.05 GB (28 files)"
+    "5.05 GB (56 files)"
   ],
   "formats": [
     ".edf",
     ".json",
+    ".md",
     ".tsv",
+    ".vhdr",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "e35cd4effd4c0b3f82400dd78caf5897ce82ac51158c5955a1fa74ad0e5f6177"
+  "source_hash": "d8bca2066a48dfa06e6fdbb4e8c09cc0898382d1dd579031d2960d641d9a10e8"
 }
