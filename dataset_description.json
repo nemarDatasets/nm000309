@@ -1,50 +1,54 @@
 {
-    "Name": "PardoGarcia2026: Mu/beta motor-imagery EEG in chronic MCA stroke and healthy controls",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC-BY-4.0",
-    "Authors": [
-        "Rebeca Pardo-Garcia",
-        "Maria Ruiz-Izquierdo",
-        "Mercedes Garcia de la Vega",
-        "Rocio Calvillo",
-        "George Kontaxakis",
-        "Eva M. Moreno",
-        "M. A. Pozo"
-    ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.5281/zenodo.19599465"
-    ],
-    "Keywords": [
-        "EEG",
-        "motor imagery",
-        "motor preparation",
-        "motor execution",
-        "chronic stroke",
-        "MCA stroke",
-        "rehabilitation",
-        "mu rhythm",
-        "beta rhythm",
-        "ERD"
-    ],
-    "DatasetDOI": "doi:10.5281/zenodo.19599465",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.5281/zenodo.19599465",
-            "URL": "https://doi.org/10.5281/zenodo.19599465"
-        }
-    ],
-    "PublicationYear": 2026,
-    "EthicsApprovals": [
-        "Approved by the Medical Ethical Reviewing Committee of the Hospital Cl\u00ednico San Carlos (Madrid, Spain), approval number 22/459-E_Tesis. The study was carried out in accordance with the Code of Ethics of the World Medical Association (Declaration of Helsinki). Patients provided written informed consent; healthy controls provided verbal informed consent (Pardo-Garcia et al. 2026, preprint DOI 10.21203/rs.3.rs-6958817/v1)."
-    ]
+  "Name": "PardoGarcia2026: Mu/beta motor-imagery EEG in chronic MCA stroke and healthy controls",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Rebeca Pardo-Garcia",
+    "Maria Ruiz-Izquierdo",
+    "Mercedes Garcia de la Vega",
+    "Rocio Calvillo",
+    "George Kontaxakis",
+    "Eva M. Moreno",
+    "M. A. Pozo"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.5281/zenodo.19599465"
+  ],
+  "Keywords": [
+    "EEG",
+    "motor imagery",
+    "motor preparation",
+    "motor execution",
+    "chronic stroke",
+    "MCA stroke",
+    "rehabilitation",
+    "mu rhythm",
+    "beta rhythm",
+    "ERD"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000309",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.5281/zenodo.19599465",
+      "URL": "https://doi.org/10.5281/zenodo.19599465"
+    },
+    {
+      "DOI": "doi:10.5281/zenodo.19599465"
+    }
+  ],
+  "PublicationYear": 2026,
+  "EthicsApprovals": [
+    "Approved by the Medical Ethical Reviewing Committee of the Hospital Clínico San Carlos (Madrid, Spain), approval number 22/459-E_Tesis. The study was carried out in accordance with the Code of Ethics of the World Medical Association (Declaration of Helsinki). Patients provided written informed consent; healthy controls provided verbal informed consent (Pardo-Garcia et al. 2026, preprint DOI 10.21203/rs.3.rs-6958817/v1)."
+  ],
+  "Version": "1.0.0"
 }
