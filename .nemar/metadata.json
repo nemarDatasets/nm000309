@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "PardoGarcia2026: Mu/beta motor-imagery EEG in chronic MCA stroke and healthy controls",
-  "description": "Pre-execution, two-class hand motor-imagery EEG (precision pinch vs closed fist) recorded with 63 BrainVision channels at 1000 Hz. The dataset includes 10 chronic middle cerebral artery (MCA) stroke patients, recorded at baseline and after rehabilitation, and 8 healthy controls. It supports investigation of mu and beta oscillatory changes (event-related desynchronization) during motor preparation and imagery in stroke rehabilitation.",
-  "methods_description": "Image-cued hand motor imagery and preparation (pinch vs fist) preceding a later auditory go cue and overt execution. EEG was recorded with a BrainVision system using 63 channels (59 EEG, 4 EOG) in a 10-10 montage at 1000 Hz, referenced to the right mastoid (A2). Only the pre-execution phase (0-1.5 s) is exposed. Patients were recorded before and after rehabilitation.",
+  "description": "This dataset contains EEG recorded during image-cued, two-class hand motor imagery and preparation (precision pinch versus closed fist) in chronic middle cerebral artery (MCA) stroke patients and healthy controls. It includes baseline and post-rehabilitation sessions for stroke patients and a single baseline session for healthy controls. Recordings comprise 63 BrainVision channels sampled at 1000 Hz. The data support investigation of mu and beta oscillatory changes (event-related desynchronization) associated with motor imagery and rehabilitation.",
+  "methods_description": "EEG was recorded with a BrainVision system (63 channels, 10-10 montage, Ag/AgCl electrodes, 1000 Hz, right mastoid reference). Participants viewed a cue image of a precision pinch or closed fist and imagined and prepared that grip, with overt execution following a later auditory go cue. Only the pre-execution interval (0-1.5 s) is exposed. Stroke patients were recorded before and after rehabilitation.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -24,10 +24,9 @@
   },
   "keywords": [
     {
-      "term": "EEG"
-    },
-    {
-      "term": "motor imagery"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "Stroke",
@@ -35,7 +34,12 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D020521"
     },
     {
-      "term": "rehabilitation"
+      "term": "Stroke Rehabilitation",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000071939"
+    },
+    {
+      "term": "motor imagery"
     },
     {
       "term": "mu rhythm"
@@ -85,16 +89,18 @@
     "eeg"
   ],
   "sizes": [
-    "5.05 GB (56 files)"
+    "10.45 GB (110 files)"
   ],
   "formats": [
     ".edf",
+    ".eeg",
     ".json",
     ".md",
     ".tsv",
     ".vhdr",
+    ".vmrk",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "d8bca2066a48dfa06e6fdbb4e8c09cc0898382d1dd579031d2960d641d9a10e8"
+  "source_hash": "c0d9303c1ca82fef01f594aa6eaff121f5ff1a221a77ca544b6def1262cbb8cb"
 }
