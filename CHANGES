@@ -1,0 +1,5 @@
+1.0.1 2026-10-16
+  - sourcedata: added the data (<recording>.eeg) and marker (<recording>.vmrk) file of each header, the names the loader passes to mne.io.read_raw_brainvision for the 27 BrainVision headers (<recording>.vhdr) already in sourcedata/
+    (54 files, 5,792,343,034 bytes), unchanged from the Zenodo release 10.5281/zenodo.19599466 (the individual files of the record).
+    The MOABB loader (moabb.datasets.PardoGarcia2026) needs them to read a recording from this deposit.
+    No existing file changed; the BIDS tree is unchanged.
